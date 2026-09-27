@@ -1,0 +1,12 @@
+# data - never committed, always fetched fresh from CFBD and cached locally
+*.csv
+
+# secrets
+.env
+
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
